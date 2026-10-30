@@ -1,0 +1,2 @@
+# MENU_DRIVEN_RTC_CONFIGURATION_AND_SCHEDULED_DEVICE_CONTROL_SYSTEM
+The system continuously monitors the current time, day and date and displays it on a 16x2 LCD display. The device (indicated by an LED) operates automatically based on the ON and OFF times set by the user. If the ON time is later than the OFF time (for example 10:00 PM to 06:00 AM), the system also effectively handles cross-midnight scheduling.
