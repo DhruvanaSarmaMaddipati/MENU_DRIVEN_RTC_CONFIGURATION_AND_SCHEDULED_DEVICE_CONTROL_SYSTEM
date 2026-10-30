@@ -34,6 +34,8 @@ When a user triggers a dedicated hardware configuration switch, the system trans
 | **Hardware Switch** | `P0.2` | External Interrupt 1 (`EINT1`) Vector Source |
 
 ---
+##Circuit Diagram
+https://github.com/DhruvanaSarmaMaddipati/MENU_DRIVEN_RTC_CONFIGURATION_AND_SCHEDULED_DEVICE_CONTROL_SYSTEM/issues/1#issue-6120213807
 
 ## ⚙️ Core Features & Functionality
 
